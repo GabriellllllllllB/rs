@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\faculdade\provaa\bin\Debug\net8.0\provaa.exe
+C:\Users\gabri\Desktop\faculdade\provaa\bin\Debug\net8.0\provaa.deps.json
+C:\Users\gabri\Desktop\faculdade\provaa\bin\Debug\net8.0\provaa.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\provaa\bin\Debug\net8.0\provaa.dll
+C:\Users\gabri\Desktop\faculdade\provaa\bin\Debug\net8.0\provaa.pdb
+C:\Users\gabri\Desktop\faculdade\provaa\obj\Debug\net8.0\provaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\provaa\obj\Debug\net8.0\provaa.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\provaa\obj\Debug\net8.0\provaa.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\provaa\obj\Debug\net8.0\provaa.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\provaa\obj\Debug\net8.0\provaa.dll
+C:\Users\gabri\Desktop\faculdade\provaa\obj\Debug\net8.0\refint\provaa.dll
+C:\Users\gabri\Desktop\faculdade\provaa\obj\Debug\net8.0\provaa.pdb
+C:\Users\gabri\Desktop\faculdade\provaa\obj\Debug\net8.0\provaa.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\provaa\obj\Debug\net8.0\ref\provaa.dll
